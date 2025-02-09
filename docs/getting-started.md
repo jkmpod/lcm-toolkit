@@ -4,6 +4,8 @@
 
 Welcome to the Learner-Centric MOOC Toolkit! This guide will help you begin your journey in creating engaging, effective online courses using the LCM framework.
 
+Note: All the documents in this repository have been created with the help of AI (Claude Sonnet 3.5) using prompts.More details on the prompts used for creation is available in the [AI section](/ai/PROMPTS.md)
+
 ## Quick Start Path
 
 1. **Understanding the Basics (30 minutes)**
@@ -17,14 +19,14 @@ Welcome to the Learner-Centric MOOC Toolkit! This guide will help you begin your
    - Identifying target audience
    - Setting learning objectives
    - Planning course structure
-   - [Download Planning Worksheet](templates/worksheets/initial-planning.md)
+   - [Download Planning Worksheets](templates/worksheets/)
 
 3. **Creating Your First Module (3-4 hours)**
    - Designing a Learning Dialogue (LeD)
    - Creating a Learning by Doing (LbD) activity
    - Setting up a Learner Experience Interaction (LxI)
    - Curating Learning Extension Trajectories (LxTs)
-   - [Access Module Templates](templates/module-creation/)
+   - [Access Module Constructors](templates/constructors/)
 
 ## Detailed Guides
 
