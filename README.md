@@ -17,12 +17,13 @@ This toolkit provides resources, templates, and guides for educators looking to 
 
 1. Start with the [Introduction to LCM Framework](docs/lcm-framework.md)
 2. Review the [Getting Started Guide](docs/getting-started.md)
-3. Explore the [Templates](templates/) directory for planning worksheets
-4. Check out [Example Courses](examples/) for implementation ideas
+3. Explore the [Templates](templates/) directory for planning worksheets and constructors
+4. Check out [Examples](docs/examples/) for implementation ideas
 
 ## Directory Structure
 
 ```
+|__ ai/            # Documentation related to use of AI
 ├── docs/          # Framework documentation and guides
 ├── templates/     # Reusable worksheets and planning tools
 ├── tools/         # Helper utilities and scripts
