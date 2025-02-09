@@ -2,6 +2,8 @@
 
 A comprehensive toolkit for designing and implementing learner-centric Massive Open Online Courses (MOOCs) using the LCM (Learner-Centric MOOC) framework.
 
+Note: All the documents in this repository have been created with the help of AI (Claude Sonnet 3.5) using prompts. Please refer to the [AI Acknowledgement](./AI-ACKNOWLEDGEMENT.md) section to get the details of contributions made by AI and the human effort in the process.
+
 ## Overview
 
 This toolkit provides resources, templates, and guides for educators looking to create engaging and effective online courses using learner-centric principles. It's based on the LCM framework which consists of four key components:
@@ -76,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- IIT Bombay team for the original LCM framework
+- Centre for Educational Technology, IIT Bombay team for the original LCM framework
 - All contributors and community members
 - Educational institutions using and providing feedback
 
@@ -84,7 +86,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Create an issue for specific questions
 - Join community discussions for general topics
-- Check the wiki for frequently asked questions
 
 ---
 
