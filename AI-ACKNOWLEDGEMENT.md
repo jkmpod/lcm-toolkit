@@ -24,6 +24,10 @@ The interaction was conducted with Claude 3.5 Sonnet with the following specific
 - Primary focus: Documentation and educational content creation
 - Time period: February 2025
 
+Later additions, such as the LxT transferable skills templates (November
+2026), were drafted with Claude Opus 5.5 (claude-opus-5-5) and reviewed in the
+same way.
+
 For transparency and reproducibility, the complete prompt history and configuration settings used in creating this repository are available in the [PROMPTS.md](PROMPTS.md) file.
 
 ## Usage Considerations

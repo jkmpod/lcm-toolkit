@@ -92,6 +92,16 @@
 - Include both theoretical and practical resources
 - Accommodate different learning preferences
 
+### Designing for Transferable Skills
+- Target one transferable skill per trajectory, such as problem decomposition
+  or systems thinking
+- Choose resources that show the skill being used, not just explained
+- Design the task so learners cannot complete it without using the skill
+- Keep the assimilation quiz as a simple check that the resource was accessed
+- Add a short reflection prompt that asks learners how they worked
+- See the [Transferable Skills Catalog](transferable-skills-catalog.md) and the
+  [Facilitator Guide](facilitator-guide-lxt-transferable-skills.md)
+
 ## General Implementation Tips
 
 ### Course Planning
