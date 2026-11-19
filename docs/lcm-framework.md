@@ -85,6 +85,9 @@ The Learner-Centric MOOC (LCM) framework is designed to address key challenges i
 - Consider different learning levels
 - Create meaningful assimilation checks
 - Support self-directed learning
+- Optionally design each trajectory's task to develop a transferable skill
+  (see the [Transferable Skills Catalog](transferable-skills-catalog.md) and
+  the [LxT Transferable Skills Worksheet](../templates/worksheets/lxt-transferable-skills-worksheet.md))
 
 ## Implementation Strategy
 

@@ -54,6 +54,8 @@ Note: All the documents in this repository have been created with the help of AI
    - Resource curation guidelines
    - Creating assimilation quizzes
    - Supporting diverse learners
+   - Designing trajectories for transferable skills
+     ([worksheet](../templates/worksheets/lxt-transferable-skills-worksheet.md))
    - Example LxTs
 
 ### Essential Skills

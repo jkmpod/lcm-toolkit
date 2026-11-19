@@ -59,6 +59,35 @@ Then what will be the contents in lcm-framework.md?
 Consider the scenario where the teachers are planning to create a course to "How to be a superhost and target financial viability and sustainability"
 ```
 
+## LxT Transferable Skills Templates
+
+**Prompt:**
+```
+I am planning to dig deep into Learning Extension Trajectories so that a set
+of teachers who are just familiarized with LCM model gets a hands-on on
+curating Trajectories in their own courses. The activity is meant to
+familiarize them with the foundational understanding of transferable skills
+(like problem decomposition or systems thinking) that will be critical for
+their learners when they pass out from the college. I need a template that
+will align with lcm-toolkit design which can be shared with faculty during
+the session. make sure that the artefacts created are domain-agnostic and is
+amenable to faculty with varying experience
+```
+
+**Clarifications agreed before drafting:** Markdown format; a 2-3 hour
+session; a starter catalog of about 8 skills; skills added as a layer on the
+existing cohort-based LxT constructor steps (A-D), with the assimilation quiz
+left unchanged.
+
+**Outputs:**
+- `templates/worksheets/lxt-transferable-skills-worksheet.md`
+- `docs/transferable-skills-catalog.md`
+- `docs/facilitator-guide-lxt-transferable-skills.md`
+- `examples/lxt-transferable-skills/worked-example.md`
+
+**Configuration:** Claude Opus 5.5 (claude-opus-5-5) in Claude Code,
+November 2026.
+
 ## Key Configuration
 
 The interaction was conducted with the following configuration:
